@@ -1,4 +1,4 @@
-Curso SENAI - Módulo Interação com APIs - 
+Curso SENAI - Módulo Interação com APIs
 
 Atividade: Implementação da Tela Inicial do site da loja de Jogos no Angular
 
